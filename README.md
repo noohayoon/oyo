@@ -1,2 +1,0 @@
-# oyo
-php oyo.php
